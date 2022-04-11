@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Taher-Ghaleb
 - 👀 I’m interested in applying AI and Data Science for Software Engineering and Continuous Integration (CI) data.
-- 🌱 I’m currently working towards obtaining a Ph.D. degree from Queen's University, Canada.
-- 💞️ I’m looking to collaborate on research projects in which I mine software repositories to uncover the causes of current problems and propose solutions to fix them.
+- 🌱 I obtained a Ph.D. degree in Computing from Queen's University, Canada.
+- ✨ I’m currently working as a research scientist at the University of Ottawa.
+- 💞️ I’m looking to collaborate on research projects in which I mine software repositories to uncover the causes of current problems and propose solutions to fix them by applying Ai and Machine Learning.
 - 📫 Please reach out to me if you are interesting in research collaboration, or you are hiring a research scientist.
 
 <!---
